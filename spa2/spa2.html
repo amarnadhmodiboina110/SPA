@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Simple JavaScript SPA</title>
+        <style>
+            body {
+                background-repeat: no-repeat;
+                background-size: cover;
+
+            }
+
+            header {
+                text-align: center;
+                color: crimson;
+                background-color: darkgrey;
+                margin: 20px;
+                padding: 20px;
+                text-shadow: 2px 2px 3px blueviolet;
+                border-style: groove;
+            }
+
+            nav {
+                text-align: center;
+                margin: 20px;
+                padding: 20px;
+                background-color: deeppink;
+                border-style: groove;
+            }
+
+            nav a {
+                padding: 20px;
+                color: chartreuse;
+                text-decoration: none;
+            }
+
+            .name {
+                position: relative;
+                text-align: center;
+                color: black;
+                text-decoration: black;
+                text-shadow: 100px;
+
+
+            }
+
+            .name img {
+                border-radius: 50%;
+            }
+
+            .non-veg {
+                position: absolute;
+                left: 50px;
+
+                bottom: 100px;
+                right: 50px;
+
+
+            }
+
+            footer {
+                padding: 80px;
+                background-color: crimson;
+                text-align: center;
+            }
+        </style>
+    </head>
+
+    <body onload="getPageContent('home')">
+
+        <header>
+            <h1>FOOD HUB RESTAURANT</h1>
+        </header>
+
+        <nav>
+            
+            <a href="#" onclick="getPageContent('home')">Home</a>
+            <a href="#" onclick="getPageContent('about')">About</a>
+            <a href="#" onclick="getPageContent('menu')">Menu</a>
+            <a href="#" onclick="getPageContent('contact')">Contact</a>
+            <a href="#" onclick="getPageContent('register')">Register</a>
+        
+        </nav>
+
+       <div class="con"><p id="content"></p></div>
+
+      
+        
+      <script src="./spa2.js"></script>
+
+    </body>
+
+    </html>
+</body>
+
+</html>
