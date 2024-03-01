@@ -10,10 +10,10 @@
     <table>
         <tr>
             <td>
-                <img src="../spa/img/img 1.jpg" width="300" height="210" alt="">
+                <img src="../spa3/img/img 1.jpg" width="300" height="210" alt="">
             </td>
             <td> 
-                <img src="../spa/img/img 2.jpg" width="300" height="210" alt="">
+                <img src="../spa3/img/img 2.jpg" width="300" height="210" alt="">
             </td>
         </tr>
         <tr>
@@ -33,13 +33,13 @@ Burgers have made their way to our breakfast, lunch and dinner menus.</p>
 <table>
     <tr>
         <td>
-            <img src="../spa/img/img 3.jpg" width="300" height="300" alt="">
+            <img src="../spa3/img/img 3.jpg" width="300" height="300" alt="">
         </td>
         <td>
-            <img src="../spa/img/img 4.jpg" width="300" height="300" alt="">
+            <img src="../spa3/img/img 4.jpg" width="300" height="300" alt="">
         </td>
         <td>
-            <img src="../spa/img/img 5.jpg" width="300" height="300" alt="">
+            <img src="../spa3/img/img 5.jpg" width="300" height="300" alt="">
         </td>
     </tr>
     <tr>
@@ -59,13 +59,13 @@ Burgers have made their way to our breakfast, lunch and dinner menus.</p>
     <table>
         <tr>
             <td>
-                <img src="../spa/img/img6.jpg" width="300" height="300" alt="">
+                <img src="../spa3/img/img6.jpg" width="300" height="300" alt="">
             </td>
             <td>
-                <img src="../spa/img/img7.jpg" width="300" height="300" alt="">
+                <img src="../spa3/img/img7.jpg" width="300" height="300" alt="">
             </td>
             <td>
-                <img src="../spa/img/img8.jpg" width="300" height="300" alt="">
+                <img src="../spa3/img/img8.jpg" width="300" height="300" alt="">
             </td>
         </tr>
         <tr>
@@ -85,13 +85,13 @@ Burgers have made their way to our breakfast, lunch and dinner menus.</p>
     <table>
         <tr>
             <td>
-                <img src="../spa/img/img9.jpg" width="300" height="300" alt="">
+                <img src="../spa3/img/img9.jpg" width="300" height="300" alt="">
             </td>
             <td>
-                <img src="../spa/img/img10.jpg" width="300" height="300" alt="">
+                <img src="../spa3/img/img10.jpg" width="300" height="300" alt="">
             </td>
             <td>
-                <img src="../spa/img/img11.jpg" width="300" height="300" alt="">
+                <img src="../spa3/img/img11.jpg" width="300" height="300" alt="">
             </td>
         </tr>
         <tr>
@@ -111,13 +111,13 @@ Burgers have made their way to our breakfast, lunch and dinner menus.</p>
     <table>
         <tr>
             <td>
-                <img src="../spa/img/img12.jpg" width="300" height="300" alt="">
+                <img src="../spa3/img/img12.jpg" width="300" height="300" alt="">
             </td>
             <td>
-                <img src="../spa/img/img13.jpg" width="300" height="300" alt="">
+                <img src="../spa3/img/img13.jpg" width="300" height="300" alt="">
             </td>
             <td>
-                <img src="../spa/img/img14.jpg" width="300" height="300" alt="">
+                <img src="../spa3/img/img14.jpg" width="300" height="300" alt="">
             </td>
         </tr>
         <tr>
@@ -137,13 +137,13 @@ Burgers have made their way to our breakfast, lunch and dinner menus.</p>
     <table>
         <tr>
             <td>
-                <img src="../spa/img/img15.jpg" width="300" height="300" alt="">
+                <img src="../spa3/img/img15.jpg" width="300" height="300" alt="">
             </td>
             <td>
-                <img src="../spa/img/img16.jpg" width="300" height="300" alt="">
+                <img src="../spa3/img/img16.jpg" width="300" height="300" alt="">
             </td>
             <td>
-                <img src="../spa/img/img17.jpg" width="300" height="300" alt="">
+                <img src="../spa3/img/img17.jpg" width="300" height="300" alt="">
             </td>
         </tr>
         <tr>
@@ -163,13 +163,13 @@ Burgers have made their way to our breakfast, lunch and dinner menus.</p>
     <table>
         <tr>
             <td>
-                <img src="../spa/img/img18.jpg" width="300" height="300" alt="">
+                <img src="../spa3/img/img18.jpg" width="300" height="300" alt="">
             </td>
             <td>
-                <img src="../spa/img/img19.jpg" width="300" height="300" alt="">
+                <img src="../spa3/img/img19.jpg" width="300" height="300" alt="">
             </td>
             <td>
-                <img src="../spa/img/img20.jpg" width="300" height="300" alt="">
+                <img src="../spa3/img/img20.jpg" width="300" height="300" alt="">
             </td>
         </tr>
         <tr>
