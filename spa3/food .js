@@ -10,7 +10,7 @@
     <table>
         <tr>
             <td>
-                <img src="./spa3/img/img 1.jpg" width="300" height="210" alt="">
+                <img src="../img/img 1.jpg" width="300" height="210" alt="">
             </td>
             <td> 
                 <img src="./spa3/img/img 2.jpg" width="300" height="210" alt="">
